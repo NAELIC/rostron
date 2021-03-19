@@ -1,0 +1,21 @@
+[submodule "rostron_receiver"]
+	path = rostron_receiver
+	url = ../rostron_receiver.git
+[submodule "rostron_interfaces"]
+	path = rostron_interfaces
+	url = ../rostron_interfaces.git
+[submodule "rostron_nav_plugin"]
+	path = rostron_nav_plugin
+	url = ../rostron_nav_plugin.git
+[submodule "rostron_sender"]
+	path = rostron_sender
+	url = ../rostron_sender.git
+[submodule "rostron_bringup"]
+	path = rostron_bringup
+	url = ../rostron_bringup.git
+[submodule "rostron_nav"]
+	path = rostron_nav
+	url = ../rostron_nav.git
+[submodule "rostron_aggregate_py"]
+	path = rostron_aggregate_py
+	url = ../rostron_aggregate_py.git
