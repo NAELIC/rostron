@@ -18,3 +18,7 @@
 	path = rostron_aggregate_py
 	url = ../rostron_aggregate_py.git
 	branch = develop
+[submodule "rostron_navigation"]
+	path = rostron_navigation
+	url = ../rostron_navigation.git
+	branch = develop
