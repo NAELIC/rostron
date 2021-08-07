@@ -25,3 +25,4 @@
 [submodule "rostron_utils"]
 	path = rostron_utils
 	url = git@github.com:NAELIC/rostron_utils.git
+	branch = develop
